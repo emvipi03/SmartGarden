@@ -78,15 +78,6 @@ Sản phẩm sẽ có các đặc tính cơ bản sau:
 
 ![sơ đồ khối](./pic/sodokhoi.png)
 
-### Các linh kiện sử dụng
-
-| No | Tên linh kiện          | Điện áp hoạt động | Tín hiệu lối vào/ra | 
-|:---|:-----------------------|:------------------|:--------------------|
-| 1  | Cảm biến ánh sáng<br/> | 3.3V ~ 5V<br/>    | Digital, Analog     | 
-| 2  | Quang trở<br/>         | 3.3V ~ 5V<br/>    | Digital, Analog     | 
-| 3  | Máy bơm nước<br/>      | 5V<br/>           | Digital             | 
-| 4  | Servo SG90<br/>        | 5V<br/>           | Digital             | 
-
 ### Demo hệ thống: [Tại đây](https://youtu.be/c7vdNeubNYY)
 
 ### Report: [Tại đây](./pic/Report.pdf)
